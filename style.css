@@ -31,7 +31,7 @@ body{
 #article{
     padding-left: 25px;
 }
-@media(max-width: 2000px){
+@media(max-width: 2300px){
     #grid{
         display: block;
     }
